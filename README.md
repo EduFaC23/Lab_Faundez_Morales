@@ -1,1 +1,6 @@
-# Lab_Faundez_Morales
+# Repositorio de tareas
+## Laboratorio Ciencia de datos
+
+Integrantes: Eduardo Faundez
+             Alvaro Morales
+
